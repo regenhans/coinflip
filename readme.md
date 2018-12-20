@@ -9,7 +9,7 @@ A simple random number generator, using jest for testing.
 ### To run the test:
 
 * Copy the repo
-#### Run
+#### Install dependencies
 * `npm install`
-#### Run
+#### Run test
 * `npm test`
